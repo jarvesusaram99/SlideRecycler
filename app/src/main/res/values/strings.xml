@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Slide Recycler</string>
+    <string name="all_phones">All phones</string>
+    <string name="view_all">View All</string>
+</resources>
